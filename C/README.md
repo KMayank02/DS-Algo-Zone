@@ -1,2 +1,4 @@
 Add links to your code in Alphabetical Order.
-Format: -Stack(stack.c)
+Format: -[Program name](name of the file)
+
+[Stack](stack.c)
